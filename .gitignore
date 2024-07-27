@@ -1,0 +1,15 @@
+/.vscode
+/CROSO_Builder.py
+/document_builder.py
+/document_director.py
+/Lang.py
+/main.py
+/output
+/output.docx
+/output_document.docx
+/test
+/test.html
+/test2.html
+/TEST_HTML.py
+/word_custom_functions.py
+/__pycache__
