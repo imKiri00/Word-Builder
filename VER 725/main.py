@@ -16,14 +16,7 @@ def generate_document(input_html_path, output_docx_path):
      # Load replacement data
     replacement_data = json.loads('''
     {
-    "COUNTRY": "РЕПУБЛИКА СРБИЈА",
-    "EXECUTOR_NAME": "ФИЛИП ЉУЈИЋ",
-    "EXECUTOR_TITLE": "ЈАВНИ ИЗВРШИТЕЉ",
-    "JURISDICTION": "Именован за подручје Вишег суда у Смедереву и Привредног суда у Пожаревцу",
-    "ADDRESS": "Смедерево, Карађорђева 32/2",
-    "PHONE": "026/4103800",
-    "CASE_NUMBER": "ИИВ 26/20",
-    "DATE": "29.11.2020"
+    "COUNTRY": "РЕПУБЛИКА СРБИЈА"
     }
     ''')
     
